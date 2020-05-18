@@ -1,5 +1,5 @@
 
-to run the code In bmw_prime.py change the value of n by the value you want tp test 
+to run the code In bmw_prime.py change the value of n by the value you want to test 
 the deafault value is set to 7 
 
 In Order to exectute the code run the command   python bmw_prime.py
